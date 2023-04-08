@@ -90,4 +90,4 @@ uvicorn api_answering:app --host=0.0.0.0
 ### Conclusions:
 ... in process ...
 
-:arrow_up:[to Content](.README.md#Content)
+:arrow_up:[to Content](README.md#Content)
